@@ -1,3 +1,8 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Maistos-Stack-Hub-Lab/cyberpower-mac-usb-diagnostics)
+![GitHub issues](https://img.shields.io/github/issues/Maistos-Stack-Hub-Lab/cyberpower-mac-usb-diagnostics)
+![License](https://img.shields.io/github/license/Maistos-Stack-Hub-Lab/cyberpower-mac-usb-diagnostics)
+
+
 # CyberPower macOS USB Diagnostics
 
 This repository provides tools and guides to help users diagnose USB recognition issues between CyberPower UPS devices and macOS when using PowerPanel Business (Local).
