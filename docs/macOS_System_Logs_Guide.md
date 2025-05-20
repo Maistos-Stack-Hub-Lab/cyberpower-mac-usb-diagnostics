@@ -1,6 +1,7 @@
 # How to Collect macOS System Logs
 
 ## 1. Keep PowerPanel running
+
 Make sure PowerPanel Business is actively running when collecting logs.
 
 ## 2. Collect Logs
@@ -15,4 +16,5 @@ Make sure PowerPanel Business is actively running when collecting logs.
 - Hexnode Log Guide: https://www.hexnode.com/.../how-to-retrieve-mac-device-logs/
 
 ## 4. Send Logs
+
 Email the `.log` file to your CyberPower support contact.

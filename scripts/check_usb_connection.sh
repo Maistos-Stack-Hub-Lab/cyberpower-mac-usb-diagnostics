@@ -6,7 +6,7 @@ USB_INFO=$(system_profiler SPUSBDataType | grep -A10 "CyberPower")
 
 echo "[$TIMESTAMP] --- USB Check Started ---" >>"$LOGFILE"
 
-if [[ -n "$USB_INFO" ]]; then
+if [[ -n $USB_INFO ]]; then
 	echo "[$TIMESTAMP] ✅ CyberPower USB device detected." >>"$LOGFILE"
 	echo "$USB_INFO" >>"$LOGFILE"
 else

@@ -1,6 +1,7 @@
 # CyberPower USB Diagnostics (macOS)
 
 ## Goal
+
 Diagnose whether a CyberPower UPS is recognized via USB on macOS when PowerPanel Business Local doesn't detect it.
 
 ## Steps
